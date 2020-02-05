@@ -1,5 +1,5 @@
 # myWebsite
-2. [Garage.id](https://anggabanny.github.io/Garage-id/)
+1. [Garage.id](https://anggabanny.github.io/Garage-id/)
 1. [Future Family](https://anggabanny.github.io/FinalProject-Intro/)
 2. [codefox](https://anggabanny.github.io/codefox.github.io/)
 2. [Go Mechanic](https://gomechanic.herokuapp.com/)
