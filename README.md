@@ -1,3 +1,6 @@
+# Codewars
+[![CodeWars](https://www.codewars.com/users/anggabanny/badges/large)](https://www.codewars.com/users/anggabanny)
+
 # myWebsite
 1. [Garage.id](https://anggabanny.github.io/Garage-id/)
 1. [Future Family](https://anggabanny.github.io/FinalProject-Intro/)
